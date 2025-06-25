@@ -4,6 +4,7 @@ const FooterStyle = styled.footer`
     background-color: #148a1a;
     display:flex;
     gap:20px;
+    height: 20vh;
     color:#fff;
     justify-content: space-around;
     div{
