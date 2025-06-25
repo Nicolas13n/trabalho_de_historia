@@ -4,16 +4,16 @@ import styled from "styled-components";
 
 
 const DivCards = styled.main`
-    height: 100vh;
+    
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     gap: 30px;
-    
+    margin-bottom:20px;
     .card{
         width: 20%;
-        height: 80%;
+        height: 600px;
         background-color:rgb(67, 180, 52);
         padding: 20px;
         border-radius: 10px;
@@ -31,7 +31,9 @@ const DivCards = styled.main`
                 color: #fff;
                 text-align: center;
             }
-            p{
+            ul li{
+            list-style:none;
+            margin-bottom:10px;
             text-align: center;
                 font-size: 1rem;
                 color: #f0f0f0;

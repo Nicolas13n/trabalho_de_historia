@@ -5,7 +5,6 @@ const DivMain = styled.main`
     background-color: #148a1a;
     display: flex;
     align-items: center;
-    height: 100vh;
     gap: 50px;
     margin-bottom: 50px;
     flex-wrap: wrap;
@@ -23,14 +22,16 @@ const DivMain = styled.main`
     .text {
         width: 50%;
         color: #fff;
+        margin-left:20px;
         h1 {
             font-size: 2.5rem;
             margin-bottom: 20px;
         }
-        p {
-            font-size: 1.2rem;
-            line-height: 1.6;
-            color: #f0f0f0;
+        ul li{
+            list-style:none;
+            font-size: 1.4rem;
+            
+            color: #FFF;
         }
     }
     @media (max-width: 768px) {

@@ -3,12 +3,15 @@ import SectionStyle from "./style.js";
 export default function Section() {
     return (
         <>
-            <SectionStyle>
-                
+            <SectionStyle> 
                     <div className="imageOrigemAnces"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsxO4UWcS7bYQi6kwYSxnfmb1KMPRHXGDDkw&s" alt="" /></div>
                     <div className="text">
                         <h2>Origem e ancestralidade</h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis at quisquam quo natus dicta vero possimus quas laboriosam aut, explicabo aliquid harum commodi perferendis quibusdam atque quod earum repudiandae. Dolorem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita architecto nisi cum itaque et quidem nobis eius. Harum, obcaecati placeat tenetur, minima aperiam ex blanditiis officia molestiae expedita fugiat consequatur!</p>
+                        <p>Os Guarani fazem parte da grande família linguística Tupi-Guarani e habitam a América do Sul há milhares de anos. Segundo suas tradições orais e mitos de criação, eles vieram de uma “terra sem males”, um paraíso espiritual que guiava suas migrações.</p>
+                        <ul>
+                            <li>São nativos da região que hoje compreende partes do Brasil, Paraguai, Argentina, Uruguai e Bolívia.</li>
+                            <li>Acredita-se que tenham migrado da região amazônica para o sul do continente há cerca de 2.000 anos.</li>
+                        </ul>
                     </div>
             </SectionStyle>
         </>

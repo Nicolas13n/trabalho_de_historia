@@ -6,7 +6,7 @@ const Divheader = styled.header`
     color: white;
     display: flex;
     justify-content: space-between;
-    padding: 0 50px;
+    padding: 0 20px;
     margin-bottom: 20px;
     align-items: center;
     

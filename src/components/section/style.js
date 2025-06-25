@@ -21,7 +21,8 @@ const DivSection = styled.section`
             font-size: 2.5rem;
             margin-bottom: 20px;
         }
-        p {
+        ul li,p{
+            list-style:none;
             font-size: 1.2rem;
             line-height: 1.6;
             color: #333;

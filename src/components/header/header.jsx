@@ -5,7 +5,7 @@ export default function Header(){
     return (
         <>
           <Divheader>
-                <h1>Trabalho de História</h1>
+                <h1>Tupi-Guarani</h1>
                 <nav>
                     <ul>
                         <li><a href="#home">Home</a></li>
