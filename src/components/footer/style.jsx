@@ -15,7 +15,7 @@ const FooterStyle = styled.footer`
     }
     li{
         list-style:none;
-        margin-bottom:378px;
+        margin-bottom:37px;
     }
     li a{
         text-decoration: none;
