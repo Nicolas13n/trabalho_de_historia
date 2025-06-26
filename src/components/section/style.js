@@ -31,6 +31,7 @@ const DivSection = styled.section`
     }
         @media (max-width: 768px) {
         .imageOrigemAnces {
+            height: auto;
             width: 100%;
         }
         .text {
