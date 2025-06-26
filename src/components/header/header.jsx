@@ -9,9 +9,7 @@ export default function Header(){
                 <h1>Tupi-Guarani</h1>
                 <nav>
                     <ul>
-                        <li><a href="#home">App</a></li>
-                        
-
+                       <a href="quarani 1.apk" download="appHistória.apk">App</a>
                     </ul>
                 </nav>
                 <section></section>
