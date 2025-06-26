@@ -16,7 +16,7 @@ const DivSection = styled.section`
         }
     }
     .text {
-    width: 50%;
+    width: 70%;
         h2 {
             font-size: 2.5rem;
             margin-bottom: 20px;
