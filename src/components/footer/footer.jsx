@@ -7,7 +7,7 @@ export default function Footer(){
                     <h2>Nome do grupo</h2>
                     <div>
                         
-                            <p>Nicolas, Iago ,Rafael , Thomé ,Amada, Ana Beatriz, Jullia</p>
+                            <p>Nicolas, Iago ,Rafael , Thomé ,Amanda, Ana Beatriz, Jullia</p>
                     </div>
                 </div>
                 <div>
