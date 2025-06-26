@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const FooterStyle = styled.footer`
-    background-color: #148a1a;
+    background-color:rgb(48, 83, 50);
     display:flex;
     gap:20px;
     height: 20vh;
