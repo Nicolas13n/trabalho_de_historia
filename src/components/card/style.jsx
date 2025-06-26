@@ -13,7 +13,7 @@ const DivCards = styled.main`
     margin-bottom:20px;
     .card{
         width: 25%;
-        height: 600px;
+        height: 70vh;
         background-color:rgb(67, 180, 52);
         padding: 20px;
         border-radius: 10px;
