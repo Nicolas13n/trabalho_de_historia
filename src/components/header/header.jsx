@@ -9,9 +9,9 @@ export default function Header(){
                 <h1>Tupi-Guarani</h1>
                 <nav>
                     <ul>
-                        <li><a href="#home">Home</a></li>
-                        <li><a href="#about">Sobre</a></li>
-                        <li><a href="#contact">Contato</a></li>
+                        <li><a href="#home">App</a></li>
+                        
+
                     </ul>
                 </nav>
                 <section></section>
