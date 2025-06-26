@@ -4,7 +4,7 @@ export default function Section() {
     return (
         <>
             <SectionStyle> 
-                    <div className="imageOrigemAnces"><img src="Arquiteta Giovanna Ribeiro_ Tribos indígenas – Quais são as principais____ (41).png" alt="" /></div>
+                    <div className="imageOrigemAnces"><img src="https://1.bp.blogspot.com/-oBJGhXBAgDM/W36hewOjjFI/AAAAAAAAEgs/JuJp-7-bq8oz3ToL5mnQ30Ndc38QFxBGwCLcBGAs/s1600/images%2B1.jpg" alt="" /></div>
                     <div className="text">
                         <h2>Origem e ancestralidade</h2>
                         <p>Os Guarani fazem parte da grande família linguística Tupi-Guarani e habitam a América do Sul há milhares de anos. Segundo suas tradições orais e mitos de criação, eles vieram de uma “terra sem males”, um paraíso espiritual que guiava suas migrações.</p>
