@@ -7,8 +7,9 @@ const DivSection = styled.section`
     margin-bottom: 50px;
     flex-wrap: wrap;
     .imageOrigemAnces{
-        width: 40%;
+        width: 58%;
         display: flex;
+        height: 555px;
         img {
             width: 100%;
             height: auto;
