@@ -10,17 +10,18 @@ const Divheader = styled.header`
     margin-bottom: 20px;
     align-items: center;
     
+
     nav ul {
         list-style: none;
         display: flex;
         gap: 20px;
     }
 
-    nav ul li a{
+    nav ul a{
         color: white;
         text-decoration: none;
         font-weight: bold;
-
+        color: #fff;
     }
 `;
 

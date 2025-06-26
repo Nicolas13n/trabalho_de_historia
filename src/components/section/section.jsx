@@ -4,7 +4,7 @@ export default function Section() {
     return (
         <>
             <SectionStyle> 
-                    <div className="imageOrigemAnces"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsxO4UWcS7bYQi6kwYSxnfmb1KMPRHXGDDkw&s" alt="" /></div>
+                    <div className="imageOrigemAnces"><img src="" alt="" /></div>
                     <div className="text">
                         <h2>Origem e ancestralidade</h2>
                         <p>Os Guarani fazem parte da grande família linguística Tupi-Guarani e habitam a América do Sul há milhares de anos. Segundo suas tradições orais e mitos de criação, eles vieram de uma “terra sem males”, um paraíso espiritual que guiava suas migrações.</p>
