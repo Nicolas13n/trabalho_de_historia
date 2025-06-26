@@ -43,12 +43,12 @@ const DivCards = styled.main`
     }
         @media (max-width: 768px) {
         .card {
-            width: 90%;
+            width: 25%;
             height: auto;
         }
         img {
             width: 100%;
-            height: auto;
+            height: 100%;
             
     }
 
