@@ -9,7 +9,7 @@ export default function Trailer(){
         style={{ borderRadius: '8px', boxShadow: '0 4px 12px rgba(0,0,0,0.1)' }}
         poster=""
       >
-         <YoutubeVideo videoId={videoId} />
+        
       </video>
     </div>
     )
