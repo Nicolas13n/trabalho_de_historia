@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 const DivSection = styled.section`
     padding: 50px;
-    gap: 30px;
+    gap: 60px;
     display: flex;
     margin-bottom: 50px;
     flex-wrap: wrap;
