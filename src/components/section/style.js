@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 const DivSection = styled.section`
     padding: 50px;
-    gap: 45px;
+    gap: 40px;
     display: flex;
     margin-bottom: 50px;
     flex-wrap: wrap;
@@ -16,7 +16,7 @@ const DivSection = styled.section`
         }
     }
     .text {
-    width: 70%;
+    width: 30%;
         h2 {
             font-size: 2.5rem;
             margin-bottom: 20px;
