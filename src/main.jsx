@@ -18,7 +18,6 @@ createRoot(document.getElementById('root')).render(
     <Main />
     <Cards />
     <Lista />
-    <Trailer />
     <Footer />
   </StrictMode>,
 )

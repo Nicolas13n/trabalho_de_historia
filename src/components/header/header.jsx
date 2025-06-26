@@ -10,6 +10,7 @@ export default function Header(){
                 <nav>
                     <ul>
                        <a href="quarani 1.apk" download="appHistória.apk">App</a>
+                       <a href="https://youtu.be/tVjQPs1chcs">Video</a>
                     </ul>
                 </nav>
                 <section></section>
